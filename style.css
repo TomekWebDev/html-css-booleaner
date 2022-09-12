@@ -25,3 +25,43 @@ header{
     margin: auto;
     width: 80%;
 }
+
+section{
+    margin-bottom: 2%;
+}
+
+.headline{
+    color: gray;
+}
+
+h1{
+    color: black;
+}
+
+.author{
+    color: #4EA0FF;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+table{
+    border-spacing: 0;
+}
+
+thead{
+    background-color: #4EA0FF;
+    border-color: #4EA0FF;
+    color: white;
+    text-align: left;
+}
+
+.type1{
+    background-color: #B1E5F2;
+    color: white;
+}
+
+td,th{
+    width: 1%;
+}
