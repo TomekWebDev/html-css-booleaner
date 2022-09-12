@@ -4,3 +4,24 @@
     box-sizing: border-box;
 }
 
+header{
+   background-color: #4EA0FF;
+   background-image: url("../html-css-booleaner/assets/img\ 3/pattern.png");
+   background-size: 20%;
+   height: 15vh;
+}
+
+.logo{
+    height: 100%;
+    margin: auto;
+    width: 80%;
+}
+
+.logoBooleaner{
+    height: 60%;
+}
+
+.mainContainer{
+    margin: auto;
+    width: 80%;
+}
