@@ -70,3 +70,25 @@ thead{
 td,th{
     width: 1%;
 }
+
+.article1,.article2{
+    background-image: url("../html-css-booleaner/assets/img\ 3/monitor.jpg");
+    background-size: cover;
+    height: 300px;
+    width: 300px;
+    color: white;
+    padding-left: 2%;
+    padding-top: 2%;
+    font-weight: bold;
+    margin-top: 1%;
+}
+
+.article2{
+    background-image: url("../html-css-booleaner/assets/img\ 3/graph.jpg");
+
+} 
+
+h3{
+    color: gray;
+}
+
