@@ -18,7 +18,9 @@ header{
 }
 
 .logoBooleaner{
-    height: 60%;
+    height: 60px;
+    display: inline-block;
+    vertical-align: middle;
 }
 
 .mainContainer{
@@ -51,6 +53,10 @@ h1{
     background-color: yellow;
 }
 
+ul{
+    list-style-position: inside; 
+}
+
 table{
     border-spacing: 0;
 }
@@ -67,9 +73,14 @@ thead{
     color: white;
 }
 
-td,th{
-    width: 1%;
+
+/* Assegno alle colonne del table header delle classi cosi
+da modificare la larghezza, le celle sotto ereditano dal 
+thead.  */
+.c1, .c2{
+    width: 20%;
 }
+
 
 .article1,.article2{
     background-image: url("../html-css-booleaner/assets/img\ 3/monitor.jpg");
